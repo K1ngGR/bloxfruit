@@ -4155,7 +4155,7 @@ if World3 then
 Farm:AddSection({"Trùm Rip Indra"})
 Farm:AddToggle({
     Name = "Tự động đánh Rip Indra",
-    Description = "Tự động triệu hồi và đánh trùm",
+    Description = "",
     -- 1. Carrega se estava ligado ou não
     Default = GetSetting("AutoRipIndra_Save", false),
     Callback = function(I)
