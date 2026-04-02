@@ -8487,7 +8487,7 @@ spawn(function()
 end);
 end
 if World1 or World2 then
-Dojo:AddSection({"only in Sea 3"});
+Dojo:AddSection({"Chỉ ở biển 3"});
 end
 function isnil(I)
 	return I == nil;
