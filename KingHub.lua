@@ -11017,7 +11017,7 @@ spawn(function()
 end);
 end
 if World2 then
-Get:AddSection({"world 2 items"});
+Get:AddSection({"Vật phẩm Biển 2"});
 Get:AddToggle({
  Name = "Tự động lấy kiếm Rengoku",
     Description = "",
