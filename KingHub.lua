@@ -10062,7 +10062,7 @@ end);
 end
 if World2 or World3 then
 Get:AddToggle({
-	Name = "Tự động cày thông thạo Skull Guitar",
+	Name = "Tự động lấy nguyên liệu lấy Skull Guitar",
 	Description = "",
 	Default = false,
 	Callback = function(I)
