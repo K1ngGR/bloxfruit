@@ -3805,7 +3805,7 @@ local Sec = 0.5
 
 if World2 then
 Farm:AddToggle({
-    Name = "Tự động nhà máy",
+    Name = "Tự động đánh nhà máy",
     Description = "",
     -- 1. Tenta carregar se estava ligado ou desligado
     Default = GetSetting("AutoFactory_Save", false),
